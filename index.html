@@ -648,7 +648,7 @@
   document.querySelectorAll('.stat-num').forEach(el => {
     const text = el.textContent;
     const num = parseFloat(text);
-    if (!isNaN(num)) {
+    if (!isNaN(num)) {  
       const obs = new IntersectionObserver(([entry]) => {
         if (entry.isIntersecting) {
           const step = num / 40;
