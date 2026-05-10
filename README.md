@@ -51,7 +51,7 @@ Frontend: https://sakshisaog.github.io/
 
 ## Installation
 
-Clone the repository:
+Clone the repository:  
 
 ```bash
 git clone https://github.com/sakshisaog/sakshisaog.github.io.git
@@ -81,7 +81,7 @@ Deployed using GitHub Pages.
 
 ## Author
 
-Sakshi Angadi
+Sakshi Angadi 
 
 - GitHub: https://github.com/sakshisaog
 - LinkedIn: https://www.linkedin.com/in/sakshi-angadi-aab62a25b/
