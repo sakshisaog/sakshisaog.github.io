@@ -73,6 +73,17 @@ MY-PORTFOLIO/
 
 ---
 
+## Screenshots
+
+### About Section
+![About](screenshots/about_screenshot.png)
+
+### Projects Section
+![Projects](screenshots/projects_screenshot.png)
+
+### Contact Section
+![Contact](screenshots/contact_screenshot.png)
+
 ## Deployment
 
 Deployed using GitHub Pages.
